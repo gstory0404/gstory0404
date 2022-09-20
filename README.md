@@ -1,11 +1,11 @@
 <!-- <img align="top" src="https://file.gstory.cn/about_banner.jpeg" height=200> -->
 
 <h1 align="center"> 
-  <a href="https://gstory.cn/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Gstory%20|%20每天进步一点点！&center=true&size=27&color=FF6633&font=Fira+Code"> </a> 
+  <a href="https://gstory.cn/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Gstory%20|%20每天进步一点点！&center=true&size=27&color=1ba784&font=Fira+Code"> </a> 
 </h1>
 <div align="center"> 
   <a href="https://gstory.cn/"><img src="https://img.shields.io/badge/website-gstory.cn-blue"></a>&emsp; 
-  <img src="https://visitor-badge.glitch.me/badge?page_id=gstory0404"/> 
+  <img src="https://visitor-badge.glitch.me/badge?page_id=gstory0404&right_color=blue"/> 
 </div>
 <br/>
 <br/>
@@ -25,7 +25,7 @@
 <br/>
 <br/>
 <div align="center">  
-  <img src="https://activity-graph.herokuapp.com/graph?username=gstory0404&theme=react-dark&bg_color=20232a&hide_border=true&line=FF6633&color=FF6633" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=gstory0404&theme=react-dark&bg_color=20232a&hide_border=true&line=1ba784&color=1ba784" width="100%"/>
 <div align="center">
 
 
