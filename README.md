@@ -7,7 +7,7 @@
 
 <!-- <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=gstory0404" /> </div> -->
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=gstory0404" /> </div>
+<div align="center"> <a href="https://gstory.cn/"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=gstory0404" /> </a></div>
 
 
 
