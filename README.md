@@ -11,11 +11,13 @@
 <a href="https://gstory.cn/"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gstory0404&hide_border=true&theme=tokyonight&layout=compact" height=150></a> </div>
 
 <!-- <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=gstory0404" /> </div> -->
+<!-- 
 <br/>
 <br/>
 <div align="center"> 
   <a href="https://gstory.cn/"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=gstory0404"/></a>
 </div>
+-->
 <br/>
 <br/>
 <div align="center">  
