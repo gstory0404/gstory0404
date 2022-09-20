@@ -25,7 +25,7 @@
 <br/>
 <br/>
 <div align="center">  
-  <img src="https://activity-graph.herokuapp.com/graph?username=gstory0404&theme=react-dark&bg_color=4d000000&hide_border=true&line=1ba784&color=1ba784" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=gstory0404&theme=react-dark&bg_color=4d000000&hide_border=true&line=1ba784&color=1ba784&point=1ba784" width="100%"/>
 <div align="center">
 
 
