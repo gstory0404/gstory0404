@@ -10,8 +10,8 @@
 <br/>
 <br/>
 <div align="center"> 
-  <a href="https://gstory.cn/"><img src="https://github-readme-stats.vercel.app/api?username=gstory0404&show_icons=true&hide_border=flase&theme=gruvbox&count_private=true" height=150></a>
-  <a href="https://gstory.cn/"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gstory0404&hide_border=true&theme=tokyonight&layout=compact" height=150></a>
+  <a href="https://gstory.cn/"><img src="https://github-readme-stats.vercel.app/api?username=gstory0404&show_icons=true&hide_border=flase&theme=gruvbox&count_private=true&bg_color=4d000000" height=150></a>
+  <a href="https://gstory.cn/"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gstory0404&hide_border=true&theme=tokyonight&layout=compact&bg_color=4d000000" height=150></a>
 </div>
 
 <!-- <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=gstory0404" /> </div> -->
