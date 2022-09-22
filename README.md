@@ -30,7 +30,7 @@
 <br/>
 <br/>
 
-|插件|地址|
+|Flutter插件|地址|
 |:----|:----|
 |字节-穿山甲广告插件|[flutter_unionad](https://github.com/gstory0404/flutter_unionad)|
 |腾讯-优量汇广告插件|[flutter_tencentad](https://github.com/gstory0404/flutter_tencentad)|
