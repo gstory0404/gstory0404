@@ -22,11 +22,13 @@
   <a href="https://gstory.cn/"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=gstory0404"/></a>
 </div>
 -->
+<!-- 
 <br/>
 <br/>
 <div align="center">  
   <img src="https://activity-graph.herokuapp.com/graph?username=gstory0404&theme=react-dark&bg_color=4d000000&hide_border=true&line=1ba784&color=1ba784&point=1ba784" width="100%"/>
 </div>
+-->
 <br/>
 <br/>
 
