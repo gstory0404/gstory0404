@@ -4,7 +4,8 @@
   <a href="https://gstory.cn/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Gstory%20|%20每天进步一点点...&center=true&size=27&color=1ba784&font=Fira+Code&duration=7000&pause=1000"> </a> 
 </h1>
 <div align="center"> 
-  <a href="https://gstory.cn/"><img src="https://img.shields.io/badge/website-gstory.cn-blue"></a>&emsp; 
+<!--   <a href="https://gstory.cn/"><img src="https://img.shields.io/badge/website-gstory.cn-blue"></a>&emsp;  -->
+  <a href="https://blog.gstory.cn/"><img src="https://img.shields.io/badge/-Gstory's%20Blog-orange"></a>&emsp;
   <img src="https://visitor-badge.glitch.me/badge?page_id=gstory0404&right_color=blue"/> 
 </div>
 <br/>
