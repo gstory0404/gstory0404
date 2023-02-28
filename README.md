@@ -40,6 +40,8 @@
 |百度-百青藤广告插件|[baiduad](https://github.com/gstory0404/baiduad)|
 |字节-Gromore聚合广告|[gromore](https://github.com/gstory0404/gromore)|
 |Sigmob广告|[sigmobad](https://github.com/gstory0404/sigmobad)|
+|信天翁广告|[quakerbirdad](https://github.com/gstory0404/quakerbirdad)|
+|快手广告|[ksad](https://github.com/gstory0404/ksad)|
 |聚合广告插件(迁移至GTAds)|[flutter_universalad](https://github.com/gstory0404/flutter_universalad)|
 |GTAds聚合广告|[GTAds](https://github.com/gstory0404/GTAds)|
 |字节穿山甲内容合作插件|[flutter_pangrowth](https://github.com/gstory0404/flutter_pangrowth)|
