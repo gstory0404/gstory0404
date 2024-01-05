@@ -33,6 +33,13 @@
 <br/>
 <br/>
 
+![](https://github.com/gstory0404/LarkMusic/blob/master/doc/larkmusic.png)
+
+[自部署音乐服务(支持全平台)](https://github.com/gstory0404/LarkMusic)
+
+<br/>
+<br/>
+
 |Flutter插件|地址|
 |:----|:----|
 |字节-穿山甲广告插件|[flutter_unionad](https://github.com/gstory0404/flutter_unionad)|
