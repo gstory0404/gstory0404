@@ -15,27 +15,16 @@
   <a href="https://gstory.cn/"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gstory0404&hide_border=true&theme=tokyonight&layout=compact&bg_color=4d000000" height=150></a>
 </div>
 
-<!-- <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=gstory0404" /> </div> -->
-<!-- 
 <br/>
+<br/>
+
+<div align="center"> 
+  <font href="https://github.com/gstory0404/LarkMusic/blob/master/doc/larkmusic.png" face="新宋体" color=#FFFFFF size=172>自部署音乐服务(支持全平台)</font>
+</div>
 <br/>
 <div align="center"> 
-  <a href="https://gstory.cn/"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=gstory0404"/></a>
+  <img src="https://github.com/gstory0404/LarkMusic/blob/master/doc/larkmusic.png" href="https://github.com/gstory0404/LarkMusic" alt="自部署音乐服务" width="65%" height="auto">
 </div>
--->
-<!-- 
-<br/>
-<br/>
-<div align="center">  
-  <img src="https://activity-graph.herokuapp.com/graph?username=gstory0404&theme=react-dark&bg_color=4d000000&hide_border=true&line=1ba784&color=1ba784&point=1ba784" width="100%"/>
-</div>
--->
-<br/>
-<br/>
-
-![](https://github.com/gstory0404/LarkMusic/blob/master/doc/larkmusic.png)
-
-[自部署音乐服务(支持全平台)](https://github.com/gstory0404/LarkMusic)
 
 <br/>
 <br/>
