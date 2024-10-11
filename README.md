@@ -18,17 +18,6 @@
 <br/>
 <br/>
 
-<div align="center"> 
-  <font href="https://github.com/gstory0404/LarkMusic/blob/master/doc/larkmusic.png" face="新宋体" color=#FFFFFF size=172>自部署音乐服务(支持全平台)</font>
-</div>
-<br/>
-<div align="center"> 
-  <img src="https://github.com/gstory0404/LarkMusic/blob/master/doc/larkmusic.png" href="https://github.com/gstory0404/LarkMusic" alt="自部署音乐服务" width="65%" height="auto">
-</div>
-
-<br/>
-<br/>
-
 |Flutter插件|地址|
 |:----|:----|
 |字节-穿山甲广告插件|[flutter_unionad](https://github.com/gstory0404/flutter_unionad)|
